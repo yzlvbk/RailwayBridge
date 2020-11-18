@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 import installAntdUi from './plugins/antd-vue'
 import './assets/css/normalize.css'
+import './assets/css/antd-vue.css'
 
 const app = createApp(App)
 // 注册antd-vue组件
